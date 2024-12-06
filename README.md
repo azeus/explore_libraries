@@ -1,6 +1,6 @@
 Explore Libraries Repository
 
-This repository is a growing collection of Python libraries, both internal (standard library) and external, categorized by their functionality. The goal is to document my journey as I explore and experiment with up to 500 libraries(umm maybe more?). Each section contains a brief description of the libraries and links to their documentation.
+This repository is a growing collection of Python libraries, categorized by their functionality. The goal is to document my journey as I explore and experiment with Python’s vast ecosystem, including standard library modules and external libraries. The target? Exploring up to 500 libraries (maybe more?). Each section includes a brief description of the libraries, their use cases, and links to relevant documentation.
 
 Table of Contents
 
@@ -8,8 +8,8 @@ Table of Contents
 	2.	Math and Symbolic Computation Libraries
 	3.	Visualization and UI Libraries
 	4.	Text and Emoji Handling Libraries
-	5.	Utilities and Tools
-	
+	5.	Networking Libraries
+	6.	Utilities and Tools
 
 Data Processing Libraries
 
@@ -42,14 +42,20 @@ Documentation: ASCII Documentation
 Description: Handle and process emoji in text data.
 Documentation: Emoji Test Documentation
 
+Networking Libraries
+
+Libraries for network communication, including Ethernet-based interactions.
+	•	socket_test.py
+Description: A demonstration of Python’s built-in socket module for TCP and UDP communication. Includes examples for creating a server and client within the same script.
+Documentation: Python socket Module Documentation
+
 Utilities and Tools
 
-General-purpose libraries for enhancing productivity and development experience.
-	•	Add utility libraries as you explore them.
+General-purpose libraries for enhancing productivity and the development experience.
+	•	Add utility libraries as you explore them!
 
 Notes
 
 	•	This list will grow as I explore more libraries. Stay tuned!
 	•	Feedback and suggestions for libraries to explore are always welcome.
-
-
+	•	Libraries included in this repository are thoroughly tested to provide examples and insights.
