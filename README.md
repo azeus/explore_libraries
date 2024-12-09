@@ -42,7 +42,6 @@ Libraries for text manipulation, emoji processing, and ASCII art.
 	•	emoji_test.py
 	•	Description: Handle and process emoji in text data.
 
-
 Networking Libraries
 
 Libraries for network communication, including Ethernet-based interactions.
@@ -53,16 +52,19 @@ Libraries for network communication, including Ethernet-based interactions.
 Utilities and Tools
 
 General-purpose libraries for enhancing productivity and the development experience.
-	•	[ONGOING]
+	•	random_pwd_gen.py
+	•	Description: Generate strong, customizable passwords. Allows users to specify the length and inclusion of uppercase letters, numbers, and special characters.
+	•	Documentation: Python String Module Documentation
 
 Movie Scraping and Rating Integration
 
 	•	movie_scraper.py
 	•	Description: Fetch movies released two months ago from Wikipedia and integrate with OMDb API to retrieve IMDb ratings and other metadata.
-	•	Documentation: OMDB Documentation
+	•	Documentation: OMDb Documentation
 
 Notes
 
 	•	This list will grow as I explore more libraries. Stay tuned!
 	•	Feedback and suggestions for libraries to explore are always welcome.
 	•	Libraries included in this repository are thoroughly tested to provide examples and insights.
+
