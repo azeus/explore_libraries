@@ -11,6 +11,7 @@ Table of Contents
 	5.	Networking Libraries
 	6.	Utilities and Tools
 	7.	Movie Scraping and Rating Integration
+	8.	Games
 
 Data Processing Libraries
 
@@ -58,13 +59,24 @@ General-purpose libraries for enhancing productivity and the development experie
 
 Movie Scraping and Rating Integration
 
+Libraries for fetching and processing movie data.
 	•	movie_scraper.py
 	•	Description: Fetch movies released two months ago from Wikipedia and integrate with OMDb API to retrieve IMDb ratings and other metadata.
-	•	Documentation: OMDb Documentation
+	•	Documentation: OMDb API Documentation
+
+Games
+
+Libraries and scripts for creating and playing games.
+	•	jenga.py
+	•	Description: A terminal-based Python implementation of Jenga. Players take turns removing blocks from the tower while trying to keep it stable. The game includes stability checks and random wobbles for added excitement.
+	•	Features:
+	•	Displays the tower’s current state.
+	•	Allows block removal by specifying row and column.
+	•	Implements a random chance of the tower wobbling or collapsing.
+	•	Documentation: Jenga Game Documentation
 
 Notes
 
 	•	This list will grow as I explore more libraries. Stay tuned!
 	•	Feedback and suggestions for libraries to explore are always welcome.
 	•	Libraries included in this repository are thoroughly tested to provide examples and insights.
-
