@@ -25,6 +25,16 @@ Libraries for astronomical calculations, celestial object tracking, and astronom
   - Dependencies: Astropy, Matplotlib
   - Documentation: [Astropy Documentation](https://docs.astropy.org/)
 
+- **moon_phase.py**
+  - Description: A precise moon phase calculator that provides detailed lunar information. Features include:
+    - Calculate moon phases for any given date
+    - Display phase names with corresponding symbols (🌑🌒🌓🌔🌕🌖🌗🌘)
+    - Calculate lunar age and illumination percentage
+    - Find next occurrence of specific moon phases
+    - Phase percentage and visible illumination calculations
+  - Dependencies: datetime, math
+  - Documentation: Built on astronomical algorithms for lunar cycle calculations
+
 ## Data Processing Libraries
 Libraries focused on processing, transforming, and manipulating data.
 
