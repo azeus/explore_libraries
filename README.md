@@ -1,5 +1,3 @@
-Here’s the updated README with the new Generative Art section, including the spirograph script, integrated seamlessly with the rest of the repository structure.
-
 Explore Libraries Repository
 
 This repository is a growing collection of Python libraries, categorized by their functionality. The goal is to document my journey as I explore and experiment with Python’s vast ecosystem, including standard library modules and external libraries. The target? Exploring up to 500 libraries (maybe more?). Each section includes a brief description of the libraries, their use cases, and links to relevant documentation.
@@ -117,4 +115,4 @@ Notes
 	•	Feedback and suggestions for libraries to explore are always welcome.
 	•	Libraries included in this repository are thoroughly tested to provide examples and insights.
 
-Let me know if you’d like additional modifications!
+
